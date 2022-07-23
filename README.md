@@ -35,7 +35,7 @@ Property | Data
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reply2future"></img>
 
-### Latest Blog Posts
+### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [權限控制速覽](https://blog.reply2future.pw/articles/the-brief-of-authority-control)
 - [服務分析診斷](https://blog.reply2future.pw/articles/analyze-the-server)

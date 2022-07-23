@@ -35,6 +35,9 @@ Property | Data
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reply2future"></img>
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 **📫 How to Reach me:**
 <p align="left">

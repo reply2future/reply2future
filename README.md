@@ -37,6 +37,11 @@ Property | Data
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [權限控制速覽](https://blog.reply2future.pw/articles/the-brief-of-authority-control)
+- [服務分析診斷](https://blog.reply2future.pw/articles/analyze-the-server)
+- [由setTimeout思考javascript的運行機制](https://blog.reply2future.pw/articles/think-about-javascript-operate-mechanism-because-of-settimeout)
+- [node.js熱更新從入門到放棄](https://blog.reply2future.pw/articles/nodejs-hot-update-solution)
+- [Node.js npm package動態加載探索](https://blog.reply2future.pw/articles/nodejs-require-modules-dynamically)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to Reach me:**

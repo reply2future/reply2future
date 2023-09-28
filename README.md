@@ -27,8 +27,7 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Mervyn's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=reply2future&hide_border=true&theme=redical)
-
+![Mervyn's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reply2future&theme=github)
  . | .
 --- | --- 
 ![Mervyn's github stats](https://github-readme-stats.vercel.app/api?username=reply2future&show_icons=true&theme=radical&include_all_commits=true) | ![Mervyn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reply2future&theme=radical&layout=compact)

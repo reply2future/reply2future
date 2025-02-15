@@ -36,11 +36,11 @@ Property | Data
 
 ### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Bot for SimpleX-Chat with TypeScript](article/how-to-create-a-bot-for-simplex-chat-with-typescript)
-- [請一個提摩隊長--少數派個人數據監控](article/monitor-sspai-data)
-- [放輕鬆不輕鬆](article/relaxing-is-not-relaxed)
-- [保護個人穩私](article/protect-personal-private)
-- [Logger的總結](article/logger)
+- [How to Create a Bot for SimpleX-Chat with TypeScript](https://blog.reply2future.top/article/how-to-create-a-bot-for-simplex-chat-with-typescript)
+- [請一個提摩隊長--少數派個人數據監控](https://blog.reply2future.top/article/monitor-sspai-data)
+- [放輕鬆不輕鬆](https://blog.reply2future.top/article/relaxing-is-not-relaxed)
+- [保護個人穩私](https://blog.reply2future.top/article/protect-personal-private)
+- [Logger的總結](https://blog.reply2future.top/article/logger)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to Reach me:**

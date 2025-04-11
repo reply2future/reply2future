@@ -36,11 +36,11 @@ Property | Data
 
 ### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [容錯比性能重要10倍？！](https://reply2future.top/article/fault-tolerance-vs-performance)
 - [How to Create a Bot for SimpleX-Chat with TypeScript](https://reply2future.top/article/how-to-create-a-bot-for-simplex-chat-with-typescript)
 - [請一個提摩隊長--少數派個人數據監控](https://reply2future.top/article/monitor-sspai-data)
 - [放輕鬆不輕鬆](https://reply2future.top/article/relaxing-is-not-relaxed)
 - [保護個人穩私](https://reply2future.top/article/protect-personal-private)
+- [Logger的總結](https://reply2future.top/article/logger)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to Reach me:**
